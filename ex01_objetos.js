@@ -4,4 +4,4 @@ const user = {
 
 }
 surName = "Pete"
-delete user.name
+//delete user.name
